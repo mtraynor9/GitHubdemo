@@ -1,4 +1,6 @@
 #def encoder
+# Caio # Mike
+
 
 # this is the encode function:
 def encode(password):
